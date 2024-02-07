@@ -1,0 +1,36 @@
+.prising {
+    padding: 95px 0 145px 0;
+    background-color: var(--co-dark-green);
+}
+
+.prising__content {
+    padding: 0 0 0 20px;
+    color: var(--co-white);
+}
+
+.prising__title {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.prising-nav {
+    margin: 65px 0 0 0;
+}
+
+.prising__nav-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 60px;
+}
+
+.prising__nav-item {
+}
+
+.prising__nav-link {
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--co-white);
+}
